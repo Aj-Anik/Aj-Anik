@@ -3,8 +3,11 @@
 CSE Student | Competitive Programmer | Tech Enthusiast
 
 🔹 Passionate about C/C++, problem solving, and building efficient systems
+
 🔹 Learning Data Structures & Algorithms, OOP, and system-level programming
+
 🔹 Interested in CP (competitive programming) and creating clean, optimized code
+
 🔹 Love experimenting with PC building, hardware, and software engineering projects
 
 🛠️ Tech Stack

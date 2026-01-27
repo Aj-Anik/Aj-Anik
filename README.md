@@ -1,3 +1,9 @@
+## 🔥 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Aj-Anik)
+
+
+
+
 🚀 Hi, I'm Anik!
 
 CSE Student | Competitive Programmer | Tech Enthusiast

@@ -32,3 +32,8 @@ Improve GitHub portfolio and documentation
 
 🌱 I’m learning every day.
 
+
+
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aj-Anik&layout=compact)

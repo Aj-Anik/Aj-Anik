@@ -5,7 +5,7 @@
 - 🎓 CSE Student
 - 🧠 Interested in nothing but everything
 - 🚀 Currently improving **DSA & Projects**
-- ⚡ Fun fact: I break things to learn faster
+- ⚡ Fun fact: I am funny
 
 ## 🌐 Connect With Me
 - 💼 LinkedIn: www.linkedin.com/in/kaziabujafaranik

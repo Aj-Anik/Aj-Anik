@@ -20,6 +20,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aj-Anik&layout=compact)
 
+## 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aj-Anik)
+
+
 
 ## 🛠 Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)

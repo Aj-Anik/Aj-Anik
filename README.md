@@ -45,6 +45,8 @@ Improve GitHub portfolio and documentation
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/Aj-Anik/Aj-Anik/blob/output/github-contribution-grid-snake.svg)
 
 
 

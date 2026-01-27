@@ -20,8 +20,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aj-Anik&layout=compact)
 
-## 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aj-Anik)
+## 🗓 Weekly Contributions
+![Weekly](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aj-Anik&theme=github_dark)
+
 
 
 

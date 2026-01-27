@@ -1,8 +1,3 @@
-## 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Aj-Anik)
-
-
-
 
 🚀 Hi, I'm Anik!
 
@@ -43,3 +38,11 @@ Improve GitHub portfolio and documentation
 ## 📊 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aj-Anik&layout=compact)
+
+
+## 🔥 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Aj-Anik)
+
+
+
+

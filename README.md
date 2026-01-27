@@ -7,6 +7,11 @@
 - 🚀 Currently improving **DSA & Projects**
 - ⚡ Fun fact: I break things to learn faster
 
+## 🌐 Connect With Me
+- 💼 LinkedIn: www.linkedin.com/in/kaziabujafaranik
+- 📧 Email: kaziabujafaranik@gmail.com
+
+
 🌱 I’m learning every day.
 
 

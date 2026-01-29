@@ -10,7 +10,7 @@
 ## 🌐 Connect With Me
 - 💼 LinkedIn: www.linkedin.com/in/kaziabujafaranik
 - 📧 Email: kaziabujafaranik@gmail.com
-- 🌐 Website: https://aj-anik.github.io/
+- 🌐 Website: https://ajanik.dev/
 
 
 🌱 I’m learning every day.

@@ -34,6 +34,7 @@
 ![Weekly](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aj-Anik&theme=github_dark)
 
 
+![Visitors](https://komarev.com/ghpvc/?username=Aj-Anik&style=for-the-badge)
 
 
 

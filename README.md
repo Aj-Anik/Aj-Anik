@@ -28,7 +28,8 @@
 
 ## 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aj-Anik&layout=compact&theme=tokyonight)
+![Anik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aj-Anik&show_icons=true&theme=tokyonight)
+
 
 
 ## 🗓 Weekly Contributions

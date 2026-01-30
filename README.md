@@ -25,9 +25,8 @@
 
 
 
-## 📊 Most Used Languages
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=58A6FF&lines=CSE+Student;Competitive+Programmer;Learning+Every+Day;Building+Cool+Stuff)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aj-Anik&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 
 

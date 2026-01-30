@@ -29,6 +29,8 @@
 
 
 
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aj-Anik&layout=compact)
+
 
 ## 🗓 Weekly Contributions
 ![Weekly](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aj-Anik&theme=github_dark)

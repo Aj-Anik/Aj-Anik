@@ -31,9 +31,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=58A6FF&lines=CSE+Student;Competitive+Programmer;Learning+Every+Day;Building+Cool+Stuff)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aj-Anik&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
-
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aj-Anik&layout=compact)
 

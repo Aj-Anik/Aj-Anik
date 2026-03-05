@@ -17,9 +17,6 @@ I'm **Aj Anik**, a CSE student passionate about programming, problem solving, an
 * 💼 https://www.linkedin.com/in/kaziabujafaranik
 * 📧 [kaziabujafaranik@gmail.com](mailto:kaziabujafaranik@gmail.com)
 * 🌐 https://ajanik.dev
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aj-Anik\&layout=compact)
-
 </td>
 
 <td>

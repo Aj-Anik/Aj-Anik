@@ -4,13 +4,13 @@
 
 # 🚀 Hi, I'm Anik
 
-I'm **Aj Anik**, a CSE student passionate about programming, problem solving, and building cool projects.
+A CSE student passionate about programming, problem solving, and building cool projects.
 
 * 🎓 Computer Science Student
-* 🚀 Learning **DSA & Software Development**
-* ⚡ Fun fact: I enjoy making things simple
+* 🚀 Trying to make something.
+* ⚡ Fun fact: I am Funny....
 
-🌱 Learning something new every day.
+
 
 ### 🌐 Connect
 
